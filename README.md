@@ -1,9 +1,14 @@
-### Hi there, I'm Minglei, Shi 👋
+### Hi 👋
+
+I'm **Minglei, Shi** ( **史明磊** in Chinese )
+
 
 <!--
 **shiml20/shiml20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+
+<font color=Blue>ssss</font>
 
 - 🔭 I’m currently studying in the Department of Automation of Tsinghua University.
 - 💬 Ask me about everything.
@@ -19,7 +24,7 @@ Here are some ideas to get you started:
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![Flask Badge](https://img.shields.io/badge/Flask-000000?logo=falsk&logoColor=fff&style=flat)
+![Flask Badge](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff&style=flat)
 
 <!--
 🧠 计划学习
@@ -49,7 +54,7 @@ Here are some ideas to get you started:
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ai,c,cpp,ts,twitter,instagram,autocad,git" /><br>
+<img src="https://skillicons.dev/icons?i=ps,ai,c,cpp,ts,twitter,instagram,autocad,git,css,html,docker,flask" /><br>
 
 
 
