@@ -1,7 +1,9 @@
-### Hi 👋
+### Hi There! 👋
 
+<table>
+<tr><td>
+  
 I'm **Minglei, Shi** ( **史明磊** in Chinese )
-
 
 <!--
 **shiml20/shiml20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,6 +56,7 @@ Here are some ideas to get you started:
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ps,ai,c,cpp,ts,twitter,instagram,autocad,git,css,html,docker,flask" /><br>
 
+</td></tr>
 
 
 <!--
