@@ -7,18 +7,15 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying in the Department of Automation of Tsinghua University.
 - 🌱 I’m currently learning ROS2 and Pytorch.
-
-<!--
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
--->
-
 - 💬 Ask me about everything.
 - 📫 How to reach me: shiml20@mails.tsinghua.edu.cn.
 
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with ...
+
 -->
 
 <!--
