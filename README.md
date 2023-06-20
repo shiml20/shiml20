@@ -8,8 +8,6 @@ I'm **Minglei, Shi** ( **史明磊** in Chinese )
 Here are some ideas to get you started:
 -->
 
-<font color=Blue>ssss</font>
-
 - 🔭 I’m currently studying in the Department of Automation of Tsinghua University.
 - 💬 Ask me about everything.
 - 📫 How to reach me: shiml20@mails.tsinghua.edu.cn.
