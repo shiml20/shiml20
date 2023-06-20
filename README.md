@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ### 📃 Recent Blog
 
 <!-- START_SECTION:blog -->
-* <a href='https://shiml20.github.io/2023/06/21/%E3%80%90%E6%8A%80%E6%9C%AF%E3%80%91Reinforcement%20Learning/#more' target='_blank'> 强化学习数学基础 </a> - 2023-06-21
-* <a href='https://shiml20.github.io/2022/06/01/%E3%80%90%E6%8A%80%E6%9C%AF%E3%80%91AVL&RBT%E7%9A%84%E5%AF%B9%E6%AF%94%E5%88%86%E6%9E%90/#more' target='_blank'> AVL树和RedBlack树的实现与性能分析 </a> - 2022-06-01
+* <a href='https://shiml20.github.io/2023/06/21/%E3%80%90%E6%8A%80%E6%9C%AF%E3%80%91Reinforcement%20Learning' target='_blank'> 强化学习数学基础 </a> - 2023-06-21
+* <a href='https://shiml20.github.io/2022/06/01/%E3%80%90%E6%8A%80%E6%9C%AF%E3%80%91AVL&RBT%E7%9A%84%E5%AF%B9%E6%AF%94%E5%88%86%E6%9E%90' target='_blank'> AVL树和RedBlack树的实现与性能分析 </a> - 2022-06-01
 <!-- END_SECTION:blog -->
 
 <!--  skill badge 技能徽章 -->
