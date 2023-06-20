@@ -3,7 +3,7 @@
 <table>
 <tr><td>
   
-I'm **Minglei, Shi** ( **史明磊** in Chinese )
+I'm **Minglei Shi** ( **史明磊** in Chinese )
 
 <!--
 **shiml20/shiml20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
