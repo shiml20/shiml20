@@ -13,6 +13,17 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying in the Department of Automation of Tsinghua University.
 - 💬 Ask me about everything.
 - 📫 How to reach me: shiml20@mails.tsinghua.edu.cn.
+- ⚛️ Other Info <a href="https://shiml20.github.io//"><img src="https://img.shields.io/badge/Blog-博客-blue" /></a>&emsp;
+<a href="https://space.bilibili.com/478646147"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+<img src="https://komarev.com/ghpvc/?username=shiml20&label=Views&color=0e75b6&style=flat" alt="访问量统计" /> <!-- visitor statistics logo 访客数统计徽标 --> 
+
+<!-- 近期博客 -->
+### 📃 Recent Blog
+
+<!-- START_SECTION:blog -->
+* <a href='https://shiml20.github.io/2023/06/21/%E3%80%90%E6%8A%80%E6%9C%AF%E3%80%91Reinforcement%20Learning/#more' target='_blank'> 强化学习数学基础 </a> - 2023-06-21
+* <a href='https://shiml20.github.io/2022/06/01/%E3%80%90%E6%8A%80%E6%9C%AF%E3%80%91AVL&RBT%E7%9A%84%E5%AF%B9%E6%AF%94%E5%88%86%E6%9E%90/#more' target='_blank'> AVL树和RedBlack树的实现与性能分析 </a> - 2022-06-01
+<!-- END_SECTION:blog -->
 
 <!--  skill badge 技能徽章 -->
 💪 Common Language
