@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying in the Department of Automation of Tsinghua University.
 - 💬 I'm insterested in Computer Vision and Deep Learning.
-- 📫 How to reach me: shiml20@mails.tsinghua.edu.cn.
+- 📫 How to reach me: sml25@mails.tsinghua.edu.cn.
 - ⚛️ Other Info <a href="https://shiml20.github.io//"><img src="https://img.shields.io/badge/Blog-博客-blue" /></a>&emsp;
 <a href="https://space.bilibili.com/478646147"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
 <img src="https://komarev.com/ghpvc/?username=shiml20&label=Views&color=0e75b6&style=flat" alt="访问量统计" /> <!-- visitor statistics logo 访客数统计徽标 --> 
