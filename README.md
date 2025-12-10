@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I am a first-year Ph.D student in the Department of Automation at Tsinghua University, advised by Prof. Jiwen Lu and Prof. Jie Zhou.
 - 💬 My current research focuses on multi-modal generative models. I'm also building a startup focus on artificial intelligence applications.
 - 📫 How to reach me: sml25@mails.tsinghua.edu.cn.
-- ⚛️ Other Info <a href="https://shiml20.github.io/cv"><img src="https://img.shields.io/badge/page-主页-blue" /></a>&emsp;
+- ⚛️ Other Info <a href="https://shiml20.github.io/"><img src="https://img.shields.io/badge/page-主页-blue" /></a>&emsp;
 <img src="https://komarev.com/ghpvc/?username=shiml20&label=Views&color=0e75b6&style=flat" alt="访问量统计" /> <!-- visitor statistics logo 访客数统计徽标 --> 
 <!-- 近期博客 -->
 <!-- ### 📃 Recent Blog -->
