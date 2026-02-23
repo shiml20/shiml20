@@ -13,9 +13,7 @@ Advised by Prof. Jiwen Lu and Prof. Jie Zhou
 
 🌐 More about me:
 <a href="https://shiml20.github.io/">
-<img src="https://img.shields.io/badge/Website-Homepage-blue" />
-</a>
- 
+<img src="https://img.shields.io/badge/Website-Homepage-blue" /></a>
 <img src="https://komarev.com/ghpvc/?username=shiml20&label=Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </td></tr> </table>
