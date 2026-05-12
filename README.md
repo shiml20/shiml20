@@ -1,11 +1,14 @@
 <table> <tr><td>
 
-I'm Minglei Shi (史明磊)
+I'm Minglei Shi (史明磊).
 
 🎓 First-year Ph.D. student in the Department of Automation, Tsinghua University
 Advised by Prof. Jiwen Lu and Prof. Jie Zhou
 
-🔬 My research interests focus on multi-modal generative models, including representation learning and generative modeling across modalities
+🔬 My research interests focus on 
+
+(1) multi-modal generative models, including representation learning and generative modeling across modalities
+(2) agentic intelligence, including agent harness, self-evolution and the relationship between human and agent.
 
 🚀 Meanwhile, I am building a startup focused on artificial intelligence applications
 
