@@ -6,7 +6,7 @@ Most of my curiosity lives here:
 
 **(1) Multi-modal generative models** — representation learning and generative modeling across modalities.
 
-**(2) Agentic intelligence** — agent harnesses, self-evolution, and how humans and agents work together (still a lot I want to unpack here).
+**(2) Agentic intelligence** — agent harnesses, self-evolution, and how humans and agents work together.
 
 Outside the lab I'm also tinkering on a **small AI startup** — building things that might leave the paper.
 
